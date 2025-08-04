@@ -1,0 +1,4 @@
+﻿  cau12.cpp
+E:\CTDL&TG_DSLK&STACKQUEUE(Sach)\cau 5\cau 5\cau12.cpp(26,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\CTDL&TG_DSLK&STACKQUEUE(Sach)\cau 5\cau 5\cau12.cpp(79,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  cau 5.vcxproj -> E:\CTDL&TG_DSLK&STACKQUEUE(Sach)\cau 5\x64\Debug\cau 5-12.exe
